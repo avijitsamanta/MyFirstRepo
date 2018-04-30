@@ -34,5 +34,5 @@ app.listen(port,function(){
 })
 
 app.get('/',function(req,res){
-	res.send("Hello");
+	res.send("Hello Node");
 });
